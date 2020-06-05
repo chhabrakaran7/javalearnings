@@ -1,14 +1,11 @@
 
-/*
-First JAVA rogram Variable declaration and calculations (integer and variables)
-*/
-
-/**/
+/*First JAVA rogram Variable declaration and calculations (integer and variables)*/
 
 /*JAVA Classes*/
-/* "public" and "class" are java keywords
- * "public" ---> access modifier (How the class will be accessed)
- * We use the "public" access modifier to give full access
+/*
+ 1. "public" and "class" are java keywords
+ 2. "public" ---> access modifier (How the class will be accessed)
+ 3. We use the "public" access modifier to give full access
  */
 
 public class firstprog {
@@ -30,7 +27,6 @@ public class firstprog {
         /*Total of first, second, third and the extra number*/
         int totalvalue = add + extranumber;
         System.out.println("The total value is :: " + totalvalue);
-
     }
 }
 
