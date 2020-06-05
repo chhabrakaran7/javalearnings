@@ -27,7 +27,7 @@ public class firstprog {
         System.out.println("extranumber = " + extranumber);
         int add = myFirstnumber + mySecondnumber + myThirdnumber;
         System.out.println("Sum of three numbers = " + add);
-        /*Total of first, second, third and the complex number*/
+        /*Total of first, second, third and the extra number*/
         int totalvalue = add + extranumber;
         System.out.println("The total value is :: " + totalvalue);
 
