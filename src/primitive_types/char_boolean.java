@@ -6,7 +6,6 @@
 2. "char" allows user to store UNICODE characters.
 3. UNICODE is encoding standard where each "letter/digit/symbol" is assigned a unique number value.
 4. Total UNICODE characters :: 65535
-URL: https://unicode-table.com/en/
 
 * boolean:
 1. A boolean value gives only 2 choices: true/1 or false/0
@@ -33,7 +32,7 @@ public class char_boolean {
         boolean missedDoors = false;
         boolean passedAllDoors = false;
         int targetDoors = 3;
-        int doorCount =0;
+        int doorCount = 0;
 
         // First Door passed //
         if(passedDoors) {
@@ -60,7 +59,8 @@ public class char_boolean {
             passedAllDoors = true;
             if (passedAllDoors) {
                 System.out.println("Congratulations you've passed all " + doorCount + " doors");
-            } else {
+            }
+            else {
                 System.out.println("SORRY, you haven't croosed all doors");
             }
         }
