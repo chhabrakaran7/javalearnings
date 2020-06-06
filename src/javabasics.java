@@ -8,7 +8,7 @@
  3. We use the "public" access modifier to give full access
  */
 
-public class firstprog {
+public class javabasics {
     /*METHOD declaration*/
     public static void main(String[] args) {
         /*CODE BLOCK*/
