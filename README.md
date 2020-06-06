@@ -60,3 +60,4 @@ Location: src/operator_operands_expressions
 About:
 1. Description of Operators, Operands and expressions.
 2. Working examples of all operators.
+3. Abbreviating operators with examples. (++. --. +=, -=, *=, /=)
