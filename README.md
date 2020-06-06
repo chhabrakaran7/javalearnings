@@ -51,3 +51,12 @@ Location: src/data_types
 About:
 1. Description of String data type.
 2. Explained the String data type with example
+
+# Operators, Operands and Expressions
+Program name: oper_expressions.java
+
+Location: src/operator_operands_expressions
+
+About:
+1. Description of Operators, Operands and expressions.
+2. Working examples of all operators.
