@@ -22,6 +22,7 @@ public class char_boolean {
         char myUNICODE3 = '\u0052';
         char myUNICODE4 = '\u0041';
         char myUNICODE5 = '\u004E';
+
         // Ex: Print First name //
         System.out.println("The character for the supplied UNICODE is :: " + myUNICODE1 + myUNICODE2 + myUNICODE3
                 + myUNICODE4 + myUNICODE5 );
