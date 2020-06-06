@@ -9,7 +9,7 @@
 
 package primitive_types;
 
-public class Main {
+public class int_byte_short_long {
 
     public static void main(String[] args) {
         // "int" primitive type //

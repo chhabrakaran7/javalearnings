@@ -11,7 +11,7 @@
 
 package primitive_types;
 
-public class precision_floatingNums {
+public class float_double {
     public static void main(String[] args) {
         // "float" primitive type //
         float minFloatNumber = Float.MIN_VALUE;
