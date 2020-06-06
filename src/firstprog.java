@@ -18,15 +18,17 @@ public class firstprog {
         int mySecondnumber = 12;
         int myThirdnumber = 6;
         int extranumber = 20;
-        System.out.println("myFirstnumber = " + myFirstnumber);
-        System.out.println("mySecondnumber = " + mySecondnumber);
-        System.out.println("myThirdnumber = " + myThirdnumber);
-        System.out.println("extranumber = " + extranumber);
+        System.out.println("My first number is :: " + myFirstnumber);
+        System.out.println("My second number is :: " + mySecondnumber);
+        System.out.println("My third number is :: " + myThirdnumber);
+        System.out.println("The extra number is :: " + extranumber);
         int add = myFirstnumber + mySecondnumber + myThirdnumber;
-        System.out.println("Sum of three numbers = " + add);
+        System.out.println("Sum of three numbers is :: " + add);
         /*Total of first, second, third and the extra number*/
         int totalvalue = add + extranumber;
-        System.out.println("The total value is :: " + totalvalue);
+        System.out.println("The total value of all numbers is :: " + totalvalue);
+        int mylastvariable = 1000 - totalvalue ;
+        System.out.println("My last variable value is :: " + mylastvariable);
     }
 }
 
