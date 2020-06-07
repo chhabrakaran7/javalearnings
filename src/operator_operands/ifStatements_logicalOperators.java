@@ -12,7 +12,7 @@ if(VALUE) {
 
 NOTE : If you don't include the {}, only the line of code next to "if-then" will be executed
  */
-package operator_operands_expressions;
+package operator_operands;
 
 public class ifStatements_logicalOperators {
     public static void main(String[] args) {

@@ -5,7 +5,7 @@
 2. It is a shortcut to "if-then-else" statement.
 3. It is a shortcut to assign one of the 2 values to a variable depending upon the "condition".
  */
-package operator_operands_expressions;
+package operator_operands;
 
 public class ifStatements_ternaryOperators {
     public static void main(String[] args) {

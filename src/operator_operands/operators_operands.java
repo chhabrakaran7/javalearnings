@@ -3,7 +3,7 @@
 /*
 Examples of operators, operands and abbreviating operators
  */
-package operator_operands_expressions;
+package operator_operands;
 
 public class operators_operands {
     public static void main(String[] args) {

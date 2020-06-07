@@ -56,18 +56,19 @@ About:
 # Operators and Operands
 Program name: operators_operands.java
 
-Location: src/operator_operands_expressions
+Location: src/operator_operands
 
 About:
 1. Description of Operators, Operands and expressions.
 2. Working examples of all operators.
 3. Abbreviating operators with examples. (++, --, +=, -=, *=, /=)
+
 NOTE: Summary of operators can be found here on oracle's website: https://docs.oracle.com/javase/tutorial/java/nutsandbolts/opsummary.html
 
 # if statements and logical operators
 Program name: ifStatements_logicalOperators.java
 
-Location: src/operator_operands_expressions
+Location: src/operator_operands
 
 About:
 1. Usage of "if-then" statements.
@@ -77,8 +78,36 @@ About:
 # if statements, ternary operator and operator precedence
 Program name: ifStatements_ternaryOperators.java
 
-Location: src/operator_operands_expressions
+Location: src/operator_operands
 
 About:
 1. Ternary operator explained with use cases.
-2. Operator precedence explained and it's table can be found here: http://www.cs.bilkent.edu.tr/~guvenir/courses/CS101/op_precedence.html 
+2. Operator precedence explained and it's table can be found here: http://www.cs.bilkent.edu.tr/~guvenir/courses/CS101/op_precedence.html
+
+# Keywords and Expressions
+Program name: expressions.java
+
+Location: src/keywords_expressions
+
+About:
+1. Keywords and expressions explained.
+2. Examples for keywords and expressions.
+3. More details on default keywords in java: https://en.wikipedia.org/wiki/List_of_Java_keywords
+ 
+# statements, whitespace and indentation
+Program name: state_space_indent.java
+
+Location: src/statements_whitespace_indenting
+
+About:
+1. Description about statements, whitespaces and indentation.
+2. Explanations with examples.
+
+# if-then-elseif-else code blocks
+Program name: codeblocks.java
+
+Location: src/if_else_codeblocks
+
+About:
+1. Descriptions on "if/elseif/else" statements.
+2. Explanations with examples. 

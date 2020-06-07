@@ -12,7 +12,7 @@
 7. Print "Got some remainder" if "boolean" value from "5" is "false"
  */
 
-package operator_operands_expressions;
+package operator_operands;
 
 public class challenge3 {
     public static void main(String[] args) {
