@@ -13,7 +13,7 @@ public class ifStatements_ternaryOperators {
         int myAGE = 27;
         boolean ismyAGECorrect = ((myAGE == 27) && (myAGE > 18)) ? true:false;
         /* boolean VARIABLE = CONDITION ? <BOOLEAN VALUE>
-         * Operand 1: "myAGE == 27" --> Also called CONDITION
+         * Operand 1: "((myAGE == 27) && (myAGE > 18))" --> Also called CONDITION
          * Operand 2: "true"        --> value assigned to variable "ismyAGECorrect" if condition is true
          * Operand 3: "false"       --> value assigned to variable "ismyAGECorrect" if condition is false
          */
