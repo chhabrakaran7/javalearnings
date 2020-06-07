@@ -13,13 +13,13 @@ public class codeblocks {
         System.out.println("Number of levels completed: " + levelCompleted);
         System.out.println("Bonus per level:" + bonus);
 
-        if(gameOver) {
+        if (gameOver) { // if "gameOver" is true
             int finalscore = score + (levelCompleted * bonus);
-            System.out.println("The final score including bonus is: " + finalscore); // Game over
-        } else if (levelCompleted < 10) {
+            System.out.println("The final score including bonus is: " + finalscore);
+        } else if (levelCompleted < 10) { // if "gameOver" is false and "levelCompleted" is < 10
             System.out.println("Hang on! The game ain't over yet. Not enough levels completed.");
-            // Game not over and levels completed are not enough
-        } else
-            System.out.println("Game not over"); // Game not over
+        } else { // if "gameOver" is false
+            System.out.println("Game not over");
+        }
     }
 }

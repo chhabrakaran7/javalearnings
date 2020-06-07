@@ -111,3 +111,12 @@ Location: src/if_else_codeblocks
 About:
 1. Descriptions on "if/elseif/else" statements.
 2. Explanations with examples. 
+
+# Methods
+Program names: method_concept.java and examples_1.java
+
+Location: src/methods
+
+About:
+1. Description of methods with use cases.
+2. The concept for method are explained along-with an example_1.java program to describe methods in details.
