@@ -1,6 +1,10 @@
 This is the README file dedicated for javalearnings repository.
 There will be series of java programs that will be added as a part of this repository.
 Frequent challenges will also be added as a part of revisions from the learnings achieved.
+
+All of the code added is tested in my local terminal.
+
+IDEA used: IntelliJ IDEA 2020.1
  
 # JAVA basics (class, method and print statements)
 Program name: javabasics.java
@@ -113,10 +117,10 @@ About:
 2. Explanations with examples. 
 
 # Methods
-Program names: method_concept.java and examples_1.java
+Program names: method_concept.java and method_concept_contd.java
 
 Location: src/methods
 
 About:
-1. Description of methods with use cases.
-2. The concept for method are explained along-with an example_1.java program to describe methods in details.
+1. Description of methods in detail.
+2. Multiple method usage cases are explained.
