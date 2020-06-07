@@ -1,6 +1,7 @@
 This is the README file dedicated for javalearnings repository.
 There will be series of java programs that will be added as a part of this repository.
-
+Frequent challenges will also be added as a part of revisions from the learnings achieved.
+ 
 # JAVA basics (class, method and print statements)
 Program name: javabasics.java
 
@@ -52,12 +53,32 @@ About:
 1. Description of String data type.
 2. Explained the String data type with example
 
-# Operators, Operands and Expressions
-Program name: oper_expressions.java
+# Operators and Operands
+Program name: operators_operands.java
 
 Location: src/operator_operands_expressions
 
 About:
 1. Description of Operators, Operands and expressions.
 2. Working examples of all operators.
-3. Abbreviating operators with examples. (++. --. +=, -=, *=, /=)
+3. Abbreviating operators with examples. (++, --, +=, -=, *=, /=)
+NOTE: Summary of operators can be found here on oracle's website: https://docs.oracle.com/javase/tutorial/java/nutsandbolts/opsummary.html
+
+# if statements and logical operators
+Program name: ifStatements_logicalOperators.java
+
+Location: src/operator_operands_expressions
+
+About:
+1. Usage of "if-then" statements.
+2. Logical Operators explained with examples.
+3. Usage of "AND", "OR" and "NOT"
+
+# if statements, ternary operator and operator precedence
+Program name: ifStatements_ternaryOperators.java
+
+Location: src/operator_operands_expressions
+
+About:
+1. Ternary operator explained with use cases.
+2. Operator precedence explained and it's table can be found here: http://www.cs.bilkent.edu.tr/~guvenir/courses/CS101/op_precedence.html 

@@ -43,13 +43,14 @@ public class char_boolean {
         // Second Door passed //
         if(passedDoors) {
             System.out.println("We passed the second door!");
-            doorCount = doorCount +1;
+            doorCount = doorCount + 1;
         }
         // Third Door passed //
         if(passedDoors) {
             System.out.println("We passed the final door!");
             doorCount = doorCount + 1;
         }
+
         /*Validate door count with the target door count
          * If door count meets target door count
          * ---> Set value for "passedAllDoors = true"

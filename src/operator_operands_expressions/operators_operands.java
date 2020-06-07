@@ -1,8 +1,11 @@
-// Operator, Operands and expressions //
+// Operators and Operands //
 
+/*
+Examples of operators, operands and abbreviating operators
+ */
 package operator_operands_expressions;
 
-public class oper_expressions {
+public class operators_operands {
     public static void main(String[] args) {
         // addition operator //
         int result = 1 + 2;
@@ -21,7 +24,6 @@ public class oper_expressions {
         System.out.println("revised result = " + result); // revised result = 5 % 4
 
         /*Abbreviating operators*/
-
         // Single Addition //
         result ++;
         System.out.println("revised result = " + result); // revised result = 1 + 1
