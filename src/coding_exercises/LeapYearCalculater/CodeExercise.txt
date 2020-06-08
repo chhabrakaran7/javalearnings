@@ -1,0 +1,17 @@
+// Code Exercise //
+
+* Write a method "isLeapYear" that:
+    > has 1 "int" type parameter named "year"
+    > "year" should be >= 1 or <= 9999
+    > if "year" is out of [1-9999];
+        >> return false.
+    > if "year" is in range;
+        >> check if the year is a leap year; ["return true" if yes; else "return false"]
+Note:
+A year is a leap year when it is:
+1. evenly divisible by 4 [mandatory]
+2. evenly divisible 100 and 400 both:
+    > if divisible by 100;
+        >> then it needs to be divisible by 400 as well.
+
+

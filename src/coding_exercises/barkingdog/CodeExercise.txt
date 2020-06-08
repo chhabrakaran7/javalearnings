@@ -1,6 +1,5 @@
 // Code Exercise //
 
-/*
 * We have a dog that likes to bark.
 * Write a method "shouldWakeUp" that:
     > has 2 parameters:
@@ -14,4 +13,3 @@
         >> return false
 Note:
 All methods should be defined public static.
-*/
