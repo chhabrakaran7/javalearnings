@@ -1,10 +1,10 @@
 // Code exercise 4 //
 
 /*
-The problem statement can be found under src/coding_exercises/MegaBytesConverter/CodeExercise.txt
+The problem statement can be found under src/coding_exercises/LeapYearCalculator/CodeExercise.txt
  */
 
-package coding_exercises.LeapYearCalculater;
+package coding_exercises.LeapYearCalculator;
 
 public class calculate_LeapYear {
     public static boolean isLeapYear(int year) {

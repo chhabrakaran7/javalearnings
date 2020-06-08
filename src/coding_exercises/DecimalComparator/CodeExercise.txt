@@ -1,0 +1,11 @@
+// Code Exercise //
+
+* Write a method "areEqualByThreeDecimalPlaces" that:
+    > has two "double" type parameters
+    > the method should return boolean value
+    > if two parameters are same upto three decimal places;
+        >> return "true"
+    > else;
+        >> return "false"
+Note:
+All methods should be public static

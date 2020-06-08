@@ -1,6 +1,6 @@
 // Main Class //
 
-package coding_exercises.LeapYearCalculater;
+package coding_exercises.LeapYearCalculator;
 
 public class leapyear_Main {
     public static void main(String[] args) {

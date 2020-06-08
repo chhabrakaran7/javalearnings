@@ -1,7 +1,7 @@
 // Code exercise 2 //
 
 /*
-The problem statement can be found under src/coding_exercises/MegaBytesConverter/CodeExercise.txt
+The problem statement can be found under src/coding_exercises/barkingdog/CodeExercise.txt
  */
 
 package coding_exercises.barkingdog;

@@ -133,3 +133,5 @@ Location: src/coding_exercises
 1. Speed Converter 
 2. MegaBytes Converter
 3. Barking Dog
+4. Leap Year Calculator
+5. Decimal Comparator
