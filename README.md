@@ -135,3 +135,4 @@ Location: src/coding_exercises
 3. Barking Dog
 4. Leap Year Calculator
 5. Decimal Comparator
+6. Equal Sum Checker
