@@ -136,3 +136,4 @@ Location: src/coding_exercises
 4. Leap Year Calculator
 5. Decimal Comparator
 6. Equal Sum Checker
+7. Teen number checker

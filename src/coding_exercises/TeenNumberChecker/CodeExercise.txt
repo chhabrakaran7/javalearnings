@@ -1,0 +1,21 @@
+// Code Exercise //
+
+* A number is defined as "teen" if it is in the range [13-19]
+
+* Write a method named "hasTeen":
+    > with 3 parameters of "int" type
+    > if one of the 3 parameters is in range [13-19];
+        >> return "true"
+    > else;
+        >> return "false"
+
+* Write a method "isTeen":
+    > with 1 parameter of "int" type
+    > if the parameter is in range [13-19];
+        >> return "true"
+    > else;
+        >> return "false"
+
+NOTE:
+All methods should be public static
+
