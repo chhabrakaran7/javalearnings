@@ -1,0 +1,15 @@
+// Code exercise //
+
+* Write a method called "printMegaBytesAndKiloBytes" that:
+    > has 1 "int" type parameter named "kiloBytes"
+    > should not return anything (void)
+    > needs to calculate MBs and KBs from the supplied "kiloBytes" parameter
+    > Print a message in format "XX KB = YY MB and ZZ KB"
+        >> XX : Supplied KB
+        >> YY : calculated MB
+        >> ZZ : calculated remaining KBs
+    > If "kiloBytes" < 0;
+        >> print "Invalid Value"
+NOTE:
+1. All methods should be defined as public static
+2. 1 MB = 1024 KB

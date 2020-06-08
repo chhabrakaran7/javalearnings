@@ -124,3 +124,12 @@ Location: src/methods
 About:
 1. Description of methods in detail.
 2. Multiple method usage cases are explained.
+
+# Code Exercises
+All coding exercises are in their individual package folders. 
+
+Location: src/coding_exercises
+
+1. Speed Converter 
+2. MegaBytes Converter
+3. Barking Dog

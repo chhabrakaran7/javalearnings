@@ -1,0 +1,17 @@
+// Code Exercise //
+
+/*
+* We have a dog that likes to bark.
+* Write a method "shouldWakeUp" that:
+    > has 2 parameters:
+        >> 1st parameter should be "boolean" type and name "barking" [represents if dog barking or not]
+        >> 2nd parameter should be "int" type and represents "hourOfDay" [Range: 0-23]
+    > if dog is barking "before 8 hours" or "after 22 hours";
+        >> wake up the dog and return true
+    > else;
+        >> return false
+    > if hourOfDay < 0 or > 23;
+        >> return false
+Note:
+All methods should be defined public static.
+*/

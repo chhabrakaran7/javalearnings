@@ -1,0 +1,21 @@
+// Code exercise //
+
+* Write a method called "toMilesPerHour" that:
+    > has 1 "double" type parameter named "kilometersPerHour"
+    > should return rounded value of calculation type long
+    > if "kilometersPerHour" < 0;
+        >> return value "-1" to indicate an invalid value
+    > if "kilometersPerHour" > 0;
+        >> calculate value of miles per hour, round it and return it.
+        >> Use "Math.round" method for rounding off. Math.round returns the closest round value.
+* Write a method called "printConversion" that:
+    > has 1 "double" type parameter named "kilometersPerhour"
+    > should not return anything (void)
+    > needs to calculate "milesPerHour" from the "kilometersPerHour"
+    > needs to print message in "XX km/h = YY mi/h" format
+        >> "XX" is original value of "kilometersPerHour" and "YY" is rounded value of converted "milesPerHour"
+    > if "kilometersPerHour" < 0;
+        >> print text "Invalid Value"
+NOTE:
+1. All methods should be defined as public static
+2. 1 mile per hour = 1.609 kilometers per hour
