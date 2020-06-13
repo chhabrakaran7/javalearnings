@@ -138,6 +138,7 @@ Location: src/coding_exercises
 6. Equal Sum Checker
 7. Teen number checker
 8. Seconds and minutes challenge
+9. Area Calculator
 
 # Method Overloading
 Program directory: src/method_overloading

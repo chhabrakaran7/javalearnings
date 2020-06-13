@@ -1,6 +1,6 @@
 // Code exercise 8 //
 /*
-The problem statement can be found under src/coding_exercises/SpeedConverter/CodeExercise.txt
+The problem statement can be found under src/coding_exercises/secondsANDminutes/CodeExercise.txt
  */
 
 package coding_exercises.secondsANDminutes;
