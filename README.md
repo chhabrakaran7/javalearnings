@@ -137,8 +137,10 @@ Location: src/coding_exercises
 5. Decimal Comparator
 6. Equal Sum Checker
 7. Teen number checker
+8. Seconds and minutes challenge
 
 # Method Overloading
 Program directory: src/method_overloading
 
 1. Method overloading description with a use case.
+2. A coding exercise relating to usage of method overloading is also added to "Coding Exercise".
