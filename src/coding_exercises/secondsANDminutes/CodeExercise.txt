@@ -1,0 +1,21 @@
+// Code Exercise //
+
+* Create a method "getDurationString" with:
+    > two int type parameters "minutes" and "seconds"
+    > validate "minutes" >= 0 and;
+    > validate "seconds" >= 0 and <= 59
+    > if either of above is not true;
+        >> return "Invalid value"
+    > else;
+        >> Calculate how many hours, minutes and seconds are equal to the minutes and seconds passed.
+        >> Ex: minutes (passed) = 35; seconds (passed) = 45 should return: 00h 35m 45s
+        >> Format: XXh YYm ZZs
+
+* Create a second method "getDurationString" with:
+    > one parameter "seconds"
+    > validate "seconds" >= 0
+    > if not true;
+        >> return "Invalid value"
+    > else;
+        >> Calculate how many minutes are there in seconds and;
+        >> call the other overloaded method passing the correct minutes and seconds calculated so that it can calculate correctly.
