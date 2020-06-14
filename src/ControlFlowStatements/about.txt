@@ -1,0 +1,9 @@
+// Control flow statements //
+ 1. Statements that control the flow of the code are called the control flow statements.
+ 2. Types:
+    > "switch" statement
+    > "for" statement
+    > "while" statement
+    > "do while" statement
+ 3. All the different types of the control flow statements will be explained along with use cases.
+ 4. Coding exercises for all will be added as a part of "src\CodingExercises" directory

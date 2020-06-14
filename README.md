@@ -142,6 +142,7 @@ Location: src/coding_exercises
 10. Minutes to years and days calculator 
 11. Equality Printer
 12. Playing Cat
+13. Number in the Word
 
 # Method Overloading
 Program directory: src/method_overloading
@@ -149,3 +150,11 @@ Program directory: src/method_overloading
 1. Method overloading description with a use case.
 2. A coding exercise relating to usage of method overloading is also added to "Coding Exercise".
 3. The coding exercise also explains the usage of "Constants"
+
+# Control flow statements
+Program directory: src/ControlFlowStatements
+
+1. Explained control flow statements, and it's different types in "src\ControlFlowStatements\about.txt"
+2. All the control flow statement types will be explained with use cases.
+3. Individual coding exercises will be added.
+ 
