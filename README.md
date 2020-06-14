@@ -141,6 +141,7 @@ Location: src/coding_exercises
 9. Area Calculator
 10. Minutes to years and days calculator 
 11. Equality Printer
+12. Playing Cat
 
 # Method Overloading
 Program directory: src/method_overloading
