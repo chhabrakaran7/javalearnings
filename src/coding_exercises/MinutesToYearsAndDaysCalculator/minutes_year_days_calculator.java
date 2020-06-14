@@ -1,4 +1,4 @@
-// Code exercise 9 //
+// Code exercise 10 //
 /*
 The problem statement can be found under src/coding_exercises/MinutesToYersAndDaysCalculator/CodeExercise.txt
  */
@@ -6,6 +6,12 @@ The problem statement can be found under src/coding_exercises/MinutesToYersAndDa
 package coding_exercises.MinutesToYearsAndDaysCalculator;
 
 public class minutes_year_days_calculator {
+    // Main method added here to test the code //
+    public static void main(String[] args) {
+        printYearsAndDays(525600);
+        printYearsAndDays(1051200);
+        printYearsAndDays(561600);
+    }
         public static void printYearsAndDays(long minutes){
             if (minutes < 0) {
                 System.out.println("Invalid value");

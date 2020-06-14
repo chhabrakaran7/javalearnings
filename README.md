@@ -140,6 +140,7 @@ Location: src/coding_exercises
 8. Seconds and minutes challenge
 9. Area Calculator
 10. Minutes to years and days calculator 
+11. Equality Printer
 
 # Method Overloading
 Program directory: src/method_overloading
