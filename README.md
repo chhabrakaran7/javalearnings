@@ -143,7 +143,8 @@ Location: src/coding_exercises
 11. Equality Printer
 12. Playing Cat
 13. Number in the Word
-14. number of days in month
+14. Number of days in month
+15. Prime Number
 
 # Method Overloading
 Program directory: src/method_overloading
@@ -158,4 +159,5 @@ Program directory: src/ControlFlowStatements
 1. Explained control flow statements, and it's different types in "src\ControlFlowStatements\about.txt"
 2. All the control flow statement types will be explained with use cases.
 3. Individual coding exercises will be added.
+4. Types of control flow statements: switch, for, while and do while.
  

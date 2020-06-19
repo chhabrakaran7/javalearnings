@@ -1,0 +1,8 @@
+// Code Exercise 15 //
+
+* Create a for statement using any range of numbers
+* Determine if the number is a prime number using the "isPrime" method
+* If it is a prime number
+    >> print the number and increment the count of "number of prime numbers" found
+    >> if the number of prime number count = 3;
+        >>> Exit the for loop
