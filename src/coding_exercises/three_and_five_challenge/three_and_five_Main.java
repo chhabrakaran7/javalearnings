@@ -12,7 +12,7 @@ public class three_and_five_Main {
         for(int i=1; i<=1000; i++){
             if ((i % 3 == 0) && (i % 5 == 0)) {
                 count++;
-                sum += i;
+                sum += i; // need this variable as "i" can only be consumed within the for loop //
                 System.out.println("Number " + i + " is divided by both 3 and 5");
             }
                 if (count == 5) {
