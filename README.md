@@ -162,4 +162,5 @@ Program directory: src/ControlFlowStatements
 2. All the control flow statement types will be explained with use cases.
 3. Individual coding exercises will be added.
 4. Types of control flow statements: switch, for, while and do while.
+5. Various challenges are added and solved explaining all control type statements. 
  
