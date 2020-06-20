@@ -146,6 +146,7 @@ Location: src/coding_exercises
 14. Number of days in month
 15. Prime Number
 16. Three and Five challenge
+17. Sum Odd
 
 # Method Overloading
 Program directory: src/method_overloading
