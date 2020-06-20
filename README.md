@@ -147,6 +147,7 @@ Location: src/coding_exercises
 15. Prime Number
 16. Three and Five challenge
 17. Sum Odd
+18. Digit Sum challenge
 
 # Method Overloading
 Program directory: src/method_overloading
