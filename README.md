@@ -150,6 +150,7 @@ Location: src/coding_exercises
 18. Digit Sum challenge
 19. Number Palindrome
 20. First and Last digit sum
+21. Even digit sum
 
 # Method Overloading
 Program directory: src/method_overloading

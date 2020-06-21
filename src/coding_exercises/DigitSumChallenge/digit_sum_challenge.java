@@ -16,7 +16,6 @@ public class digit_sum_challenge {
             // we have to divide by 10 until possible which is why the while loop should execute until it is > 0
             int digit = number % 10; // extract the least significant digit
             sum += digit;
-
             // drop least significant digit
             number /= 10; // same as number = number / 10
         }
