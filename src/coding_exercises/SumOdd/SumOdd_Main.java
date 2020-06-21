@@ -1,6 +1,6 @@
 // Main class //
 
-package coding_exercises;
+package coding_exercises.SumOdd;
 
 public class SumOdd_Main {
     public static void main(String[] args) {

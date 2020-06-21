@@ -3,7 +3,7 @@
 The problem statement can be found under src/coding_exercises/SumOdd/CodeExercise.txt
  */
 
-package coding_exercises;
+package coding_exercises.SumOdd;
 
 public class Sum_Odd {
     // Method 1 //

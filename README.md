@@ -148,6 +148,7 @@ Location: src/coding_exercises
 16. Three and Five challenge
 17. Sum Odd
 18. Digit Sum challenge
+19. Number Palindrome
 
 # Method Overloading
 Program directory: src/method_overloading
