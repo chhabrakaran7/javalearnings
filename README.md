@@ -149,6 +149,7 @@ Location: src/coding_exercises
 17. Sum Odd
 18. Digit Sum challenge
 19. Number Palindrome
+20. First and Last digit sum
 
 # Method Overloading
 Program directory: src/method_overloading
