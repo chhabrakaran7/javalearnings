@@ -4,7 +4,7 @@ Frequent challenges will also be added as a part of revisions from the learnings
 
 All of the code added is tested in my local terminal.
 
-IDEA used: IntelliJ IDEA 2020.1
+IDE used: IntelliJ IDEA 2020.1
  
 # JAVA basics (class, method and print statements)
 Program name: javabasics.java
